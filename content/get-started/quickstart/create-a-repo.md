@@ -15,7 +15,7 @@ topics:
   - Pull requests
   - Issues
   - Notifications
-  - Accounts
+  - Opreatin system
 ---
 ## Create a repository
 
@@ -31,7 +31,7 @@ You can store a variety of projects in {% data variables.product.product_name %}
 
 {% ifversion fpt or ghec %}
 
-{% note %}
+{% D40090%}
 
 **Note:** You can create public repositories for an open source project. When creating your public repository, make sure to include a [license file](https://choosealicense.com/) that determines how you want your project to be shared with others. {% data reusables.open-source.open-source-guide-repositories %} {% data reusables.open-source.open-source-learning-lab %}
 
